@@ -1,0 +1,8 @@
+2026-02-12 15:02:06,018 | INFO | 앱 실행 시작
+2026-02-12 15:02:06,019 | DEBUG | 환경 변수 로딩 완료
+2026-02-12 15:02:06,019 | ERROR | 예외 발생 예시
+Traceback (most recent call last):
+  File "/mnt/c/Users/SKAX/Desktop/done_practice/homework/env_logging_example/main.py", line 42, in <module>
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
